@@ -34,7 +34,7 @@ const Contact = () => {
         {/* Right Section */}
         <div className="bg-gray-900 p-8 rounded-lg shadow-lg">
           <p className="text-lg font-light mb-8">
-            I'm always open to discussing product <br />
+            I&apos;m always open to discussing product <br />
             <span className="font-bold text-[#dbca2f]">
               design work or partnerships.
             </span>
